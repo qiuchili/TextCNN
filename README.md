@@ -16,6 +16,7 @@ torch
 
 torchtext
 ## Results
+Accuracy on SST-1 dataset.
 |Model|SST-1|
 |---|---|
 |rand|40.1|
